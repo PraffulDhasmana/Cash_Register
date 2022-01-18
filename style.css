@@ -1,0 +1,24 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    max-width : 600px;
+    margin: auto;
+    text-align: center;
+    }
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+    
+}
+
+th,td {
+  border: 2px ;
+  width: 0%;
+  border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+h1{
+    color: #fb923c;
+    padding-top: 2rem;
+}
